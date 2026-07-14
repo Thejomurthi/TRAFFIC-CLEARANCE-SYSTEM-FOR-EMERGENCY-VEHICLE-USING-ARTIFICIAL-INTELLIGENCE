@@ -1,8 +1,5 @@
 # TRAFFIC-CLEARANCE-SYSTEM-FOR-EMERGENCY-VEHICLE-USING-ARTIFICIAL-INTELLIGENCE
 AI-powered traffic clearance system for emergency vehicles using YOLO-based ambulance detection, Raspberry Pi, OpenCV, and IoT. Dynamically controls traffic signals to provide a clear path, reducing response time and improving road safety.
-# Traffic Clearance System for Emergency Vehicles Using Artificial Intelligence
-
-An AI-powered intelligent traffic management system that detects emergency vehicles (such as ambulances) in real time using computer vision and automatically controls traffic signals to provide a clear path. The system aims to reduce emergency response time, improve road safety, and minimize traffic congestion.
 
 ---
 
@@ -88,13 +85,13 @@ Emergency vehicles often face delays due to traffic congestion at signalized int
 ```
 Traffic-Clearance-System/
 │
-├── AI_Model/          # YOLO model files and training scripts
-├── RaspberryPi/        # Edge processing and control logic
-├── ESP8266/            # NodeMCU firmware for signal control
+├── AI_Model/            # YOLO model files and training scripts
+├── RaspberryPi/         # Edge processing and control logic
+├── ESP8266/             # NodeMCU firmware for signal control
 ├── Firebase/            # Realtime database configuration
 ├── Detection/           # Vehicle detection modules
-├── Hardware/             # Circuit diagrams and hardware setup
-├── Images/                # Screenshots and diagrams
+├── Hardware/            # Circuit diagrams and hardware setup
+├── Images/              # Screenshots and diagrams
 └── README.md
 ```
 
