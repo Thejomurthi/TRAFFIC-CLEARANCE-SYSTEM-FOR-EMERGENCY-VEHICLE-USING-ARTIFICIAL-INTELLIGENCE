@@ -17,7 +17,6 @@ An AI-powered intelligent traffic management system that detects emergency vehic
 - [Applications](#applications)
 - [Benefits](#benefits)
 - [Author](#author)
-- [Support](#support)
 
 ---
 
@@ -136,6 +135,6 @@ Traffic-Clearance-System/
 
 **Thejomurthi**
 Electronics & Communication Engineering
-Java Full Stack Developer | AI & IoT Enthusiast
+Java Full Stack Developer | AI & DATA Engineer Enthusiast
 
 ---
