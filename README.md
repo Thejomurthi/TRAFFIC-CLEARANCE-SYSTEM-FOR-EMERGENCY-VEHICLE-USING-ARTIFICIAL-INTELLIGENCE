@@ -128,10 +128,3 @@ Traffic-Clearance-System/
 
 ---
 
-## Author
-
-**Thejomurthi**
-Electronics & Communication Engineering
-Java Full Stack Developer | AI & DATA Engineer Enthusiast
-
----
